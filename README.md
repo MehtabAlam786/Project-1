@@ -1,2 +1,2 @@
 # Project 1
-Project using HTML , CSS , JAVASCRIPT.
+Project using HTML , CSS and JAVASCRIPT.
